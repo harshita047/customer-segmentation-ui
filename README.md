@@ -1,16 +1,53 @@
-# React + Vite
+# Customer Segmentation UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Customer Segmentation landing page built with React, Vite, and Tailwind CSS. This project showcases a clean fintech-inspired UI with interactive customer cards and a modern layout.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[https://customer-segmentation-ui-zeta.vercel.app](https://customer-segmentation-ui-zeta.vercel.app/)
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Customer Segmentation UI](./preview.png)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern Fintech UI
+- Customer Segmentation Cards
+- Clean Component Structure
+- Built using React + Vite
+- Tailwind CSS Styling
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/harshita047/customer-segmentation-ui.git
+
+cd customer-segmentation-ui
+
+npm install
+
+npm run dev
+```
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+## 👩‍💻 Author
+
+Harshita Sharma
+
+GitHub:
+https://github.com/harshita047
