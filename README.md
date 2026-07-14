@@ -8,7 +8,7 @@ A modern Customer Segmentation landing page built with React, Vite, and Tailwind
 
 ## 📸 Preview
 
-![Customer Segmentation UI](./preview.png)
+![Customer Segmentation UI](./preview-project.png)
 
 ## ✨ Features
 
